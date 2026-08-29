@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0229-majority-element-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0045-jump-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
