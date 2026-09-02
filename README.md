@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0045-jump-game-ii) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
