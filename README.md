@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -79,5 +80,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0006-zigzag-conversion) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
