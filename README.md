@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3843-first-element-with-unique-frequency](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/3843-first-element-with-unique-frequency) |
 ## Math
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [3843-first-element-with-unique-frequency](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/3843-first-element-with-unique-frequency) |
 ## Divide and Conquer
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
