@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0165-compare-version-numbers](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0165-compare-version-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0006-zigzag-conversion) |
+| [0165-compare-version-numbers](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0451-sort-characters-by-frequency](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
