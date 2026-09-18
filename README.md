@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0697-degree-of-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0045-jump-game-ii) |
+| [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
 ## Stack
 |  |
 | ------- |
@@ -117,4 +120,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
