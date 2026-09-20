@@ -1,17 +1,5 @@
 class Solution {
-    public int arrangeCoins(int n) {
-        int balance = n;
-int count = 0;
-
-for (int i = 1; i <= n; i++) {
-    if (balance >= i) {
-        balance -= i;
-        count++;
-    } else {
-        break;
-    }
-}
-
-return count;
+    public int arrangeCoins(int k) {
+        return (int)((-1 + Math.sqrt(1 + 8.0 * k)) / 2);
     }
 }
