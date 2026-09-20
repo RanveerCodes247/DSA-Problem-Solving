@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0441-arranging-coins) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
+| [0441-arranging-coins](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0441-arranging-coins) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
