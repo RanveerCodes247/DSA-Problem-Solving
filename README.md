@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3843-first-element-with-unique-frequency](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/3843-first-element-with-unique-frequency) |
 ## Math
 |  |
@@ -115,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
