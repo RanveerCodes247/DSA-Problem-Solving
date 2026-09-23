@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0045-jump-game-ii) |
+| [0075-sort-colors](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0149-max-points-on-a-line](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0209-minimum-size-subarray-sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0165-compare-version-numbers) |
 ## Dynamic Programming
 |  |
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0149-max-points-on-a-line) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
