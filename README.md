@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0149-max-points-on-a-line](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0149-max-points-on-a-line) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0229-majority-element-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
 | [0441-arranging-coins](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0441-arranging-coins) |
