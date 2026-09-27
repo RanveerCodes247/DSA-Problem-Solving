@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3843-first-element-with-unique-frequency](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/3843-first-element-with-unique-frequency) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
 | [0441-arranging-coins](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0075-sort-colors) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
