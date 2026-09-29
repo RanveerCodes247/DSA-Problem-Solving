@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0704-binary-search) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
 | [0441-arranging-coins](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Longest Increasing Subsequence
