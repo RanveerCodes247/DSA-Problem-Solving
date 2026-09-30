@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3843-first-element-with-unique-frequency](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/3843-first-element-with-unique-frequency) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0875-koko-eating-bananas) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
