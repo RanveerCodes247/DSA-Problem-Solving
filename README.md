@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0451-sort-characters-by-frequency](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
@@ -183,4 +185,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
