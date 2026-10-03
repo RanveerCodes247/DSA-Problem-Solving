@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0149-max-points-on-a-line](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0045-jump-game-ii) |
+| [0118-pascals-triangle](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
 ## Stack
 |  |
