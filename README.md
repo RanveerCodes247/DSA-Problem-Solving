@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0045-jump-game-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0149-max-points-on-a-line) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
