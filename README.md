@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0441-arranging-coins](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0441-arranging-coins) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
 ## Stack
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0206-reverse-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
