@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0149-max-points-on-a-line](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0149-max-points-on-a-line) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
 ## Stack
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0063-unique-paths-ii) |
 ## Linked List
 |  |
 | ------- |
