@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
 ## Stack
 |  |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
