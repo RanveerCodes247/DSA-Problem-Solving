@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3843-first-element-with-unique-frequency](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/3843-first-element-with-unique-frequency) |
 ## Math
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
