@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0165-compare-version-numbers) |
 ## Dynamic Programming
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0451-sort-characters-by-frequency](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
