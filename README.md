@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0118-pascals-triangle) |
+| [0221-maximal-square](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0354-russian-doll-envelopes) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0221-maximal-square) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Linked List
 |  |
