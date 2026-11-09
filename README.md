@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0149-max-points-on-a-line](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
