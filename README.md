@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0165-compare-version-numbers) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/RanveerCodes247/DSA-Problem-Solving/tree/master/0206-reverse-linked-list) |
 ## Recursion
